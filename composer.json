@@ -1,0 +1,12 @@
+{
+  "name": "raihan/indikran",
+  "require": {},
+  "require-dev": {
+    "php-stubs/wordpress-stubs": "^6.7"
+  },
+  "autoload": {
+    "files": [
+      "vendor/php-stubs/wordpress-stubs/wordpress-stubs.php"
+    ]
+  }
+}
